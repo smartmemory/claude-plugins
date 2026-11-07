@@ -1,0 +1,14 @@
+{
+  "name": "smartmemory",
+  "owner": {
+    "name": "SmartMemory"
+  },
+  "description": "SmartMemory plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "smartmemory-gtm",
+      "source": "./smartmemory-gtm",
+      "description": "Work SmartMemory prospects in the CRM: research, draft, log touches, see your pipeline."
+    }
+  ]
+}

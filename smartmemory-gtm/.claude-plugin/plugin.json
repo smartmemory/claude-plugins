@@ -1,0 +1,8 @@
+{
+  "name": "smartmemory-gtm",
+  "version": "0.1.0",
+  "description": "SmartMemory go-to-market teammate kit: the outreach process plus four commands (research-prospect, draft-message, log-touch, my-pipeline) that read and write the SmartMemory CRM.",
+  "author": {
+    "name": "SmartMemory"
+  }
+}
